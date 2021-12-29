@@ -2,8 +2,5 @@
 
 main() {
 
-    printf("¦ó²Ðº_\n");
+    printf("和紹榮\n");
 }
-
-
-print_variable.c:
